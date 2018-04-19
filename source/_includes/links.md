@@ -145,22 +145,22 @@
 [prezi21-change-log]: {{ site.url }}{{ site.baseurl }}/api/presentation/2.1/change-log/ "Presentation API 2.1 Change Log"
 [prezi21]: {{ site.url }}{{ site.baseurl }}/api/presentation/2.1/ "IIIF Presentation API 2.1"
 [prezi211-change-log]: {{ site.url }}{{ site.baseurl }}/api/presentation/2.1/change-log-211/ "Presentation API 2.1.1 Change Log"
-[prezi30-appendixa]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#a-summary-of-metadata-requirements
-[prezi30-canvas]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#canvas
-[prezi3-html]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.{{ site.presentation_api.draft.minor }}/#html-markup-in-property-values "Presentation API Section 4.4"
-[prezi30-html]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#html-markup-in-property-values "Presentation API Section 4.4"
-[prezi3-languages]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.{{ site.presentation_api.draft.minor }}/#language-of-property-values "Language of Property Values"
-[prezi30-languages]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#language-of-property-values "Language of Property Values"
-[prezi3-ldce]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.{{ site.presentation_api.draft.minor }}/#linked-data-context-and-extensions "Linked Data Context and Extensions"
-[prezi30-ldce]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#linked-data-context-and-extensions "Linked Data Context and Extensions"
-[prezi30-range]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#range
-[prezi30-resource-structure]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#resource-structure
-[prezi30-resource-properties]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#resource-properties
-[prezi30-terminology]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#terminology
+[prezi3-html]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.{{ site.presentation_api.draft.minor }}/#44-html-markup-in-property-values "Presentation API Section 4.4"
+[prezi3-languages]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.{{ site.presentation_api.draft.minor }}/#43-language-of-property-values "Language of Property Values"
+[prezi3-ldce]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.{{ site.presentation_api.draft.minor }}/45#linked-data-context-and-extensions "Linked Data Context and Extensions"
 [prezi3-type]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.{{ site.presentation_api.draft.minor }}/#type
-[prezi30-type-overview]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#resource-type-overview
 [prezi3]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.{{ site.presentation_api.draft.minor }}/ "Presentation API"
+[prezi30-appendixa]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#a-summary-of-metadata-requirements
+[prezi30-canvas]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#53-canvas
 [prezi30-change-log]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/change-log/ "Presentation API 3.0 Change Log"
+[prezi30-html]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#44-html-markup-in-property-values "Presentation API Section 4.4"
+[prezi30-languages]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#43-language-of-property-values "Language of Property Values"
+[prezi30-ldce]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#45-linked-data-context-and-extensions "Linked Data Context and Extensions"
+[prezi30-range]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#54-range
+[prezi30-resource-properties]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#3-resource-properties
+[prezi30-resource-structure]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#5-resource-structure
+[prezi30-terminology]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#13-terminology
+[prezi30-type-overview]: {{ site.url }}{{ site.baseurl }}/api/presentation/3.0/#2-resource-type-overview
 [registry-extensions]: {{ site.url }}{{ site.baseurl }}/api/annex/registry/extensions/
 [registry-image-extensions]: {{ site.url }}{{ site.baseurl }}/api/annex/registry/image-extensions/ "IIIF Image Extension Registry"
 [registry-motivations]: {{ site.url }}{{ site.baseurl }}/api/annex/registry/motivations/
